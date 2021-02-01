@@ -50,3 +50,10 @@ git add */{filename}
 ### 3.忽略一些文件
 
 有些文件我们不想用git管理那么我们就可以创建一个.gitignore文件
+![ignore](img/gitignore.png)
+
+### 4.查看暂存的文件更新了那些部分
+
+使用`git diff`可以查看**尚未暂存的文件更新了那些部分**
+
+xxxx
